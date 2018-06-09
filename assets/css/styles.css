@@ -119,3 +119,8 @@ footer:after{
 		padding: 90px;
 	}
 }
+@media only screen and (max-width: 1000px){
+	#about{
+		padding-top: 20px;
+	}
+}
